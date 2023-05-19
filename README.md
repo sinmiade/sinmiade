@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinmiade
-- 👀 I’m interested in data analytics and visualizatio
+- 👀 I’m interested in data analytics and visualizations
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on an project
 - 📫 How to reach me linkedin.com/in/sinmisola-adegbamigbe-8196a0150
